@@ -1,4 +1,4 @@
-# expert-network-comparison
+# Expert Network Comparison
 Non-evaluative comparison of expert network providers
 | Provider | Category | Typical Users | Engagement Type |
 |--------|---------|---------------|----------------|
